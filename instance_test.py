@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import cv2
 import tensorflow as tf
 import numpy as np
 from sklearn.preprocessing import StandardScaler
@@ -26,15 +25,17 @@ w_instance = ann.predict(sc.transform(
         np.array([[1, 0, 0, 0, 24, 4, 180, 110, 80, 75]])))#example
 w_instance = (w_instance > 0.5)
 
-#TODO: adjust reshaping (bahadır)
-def prepare(filepath):
-    IMG_SIZE = 70  # 50 in txt-based
-    img_array = cv2.imread(filepath, cv2.IMREAD_GRAYSCALE)  # read in the image, convert to grayscale
-    new_array = cv2.resize(img_array, (IMG_SIZE, IMG_SIZE))  # resize image to match cnn's expected sizing
-    return new_array.reshape(-1, IMG_SIZE, IMG_SIZE, 1)  # return the image with shaping that TF wants.
 
+def prepare(filepath):
+    image = tf.keras.preprocessing.image.load_img(filepath, 
+                                                  input_size = (64,64))
+    input_arr = tf.keras.preprocessing.image.img_to_array(image)
+    input_arr = np.array([input_arr])
+    return input_arr
+
+#TODO: image input mechanic (both)
 cnn = tf.keras.models.load_model("CNN_covid_pred.model")
-result = cnn.predict([prepare('dataset/training_set/negative/nCT26.jpg')])
+result = cnn.predict([prepare('datasets/training_set/negative/nCT26.jpg')])
 
 if result[0][0] == 1:
     prediction = 'positive'
