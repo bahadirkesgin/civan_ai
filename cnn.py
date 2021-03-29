@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import numpy as np
 from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Flatten, Dropout
+from tensorflow.keras.layers import Dense, Flatten
 from tensorflow.keras.layers import Conv2D, MaxPooling2D
 from keras.preprocessing import image
 from keras.preprocessing.image import ImageDataGenerator
