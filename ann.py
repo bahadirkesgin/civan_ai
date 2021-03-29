@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-from keras.wrappers.scikit_learn import Kerasmodel
-from sklearn.model_selection import GridSearchCV
+# from keras.wrappers.scikit_learn import Kerasmodel
+# from sklearn.model_selection import GridSearchCV
 from keras.models import Sequential
 from keras.layers import Dense
 class ANN(object):
@@ -65,20 +65,20 @@ class ANN(object):
         self.model.save(f'ANN_{modelname}.model')
         return self.model
     
-    def tune_model(self):
-        '''
-        
-        '''
-        model = Kerasmodel(build_fn = self.build_model)
-        parameters = {'batch_size': [25, 32],
-                      'epochs': [100, 150],
-                      'optimizer': ['adam', 'RMSprop']}
-        grid_search = GridSearchCV(estimator = model,
-                                   param_grid = parameters,
-                                   scoring = 'accuracy',
-                                   cv = 10)
-        grid_search = grid_search.fit(self.hps.x_train,
-                                      self.hps.y_train)
-        best_params = grid_search.best_params_
-        best_acc = grid_search.best_score_
-        return best_params , best_acc
+#    def tune_model(self):
+#        '''
+#        
+#        '''
+#        model = Kerasmodel(build_fn = self.build_model)
+#        parameters = {'batch_size': [25, 32],
+#                      'epochs': [100, 150],
+#                      'optimizer': ['adam', 'RMSprop']}
+#        grid_search = GridSearchCV(estimator = model,
+#                                   param_grid = parameters,
+#                                   scoring = 'accuracy',
+#                                   cv = 10)
+#        grid_search = grid_search.fit(self.hps.x_train,
+#                                      self.hps.y_train)
+#        best_params = grid_search.best_params_
+#        best_acc = grid_search.best_score_
+#        return best_params , best_acc
