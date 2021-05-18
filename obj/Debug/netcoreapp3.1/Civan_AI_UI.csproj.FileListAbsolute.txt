@@ -1,0 +1,61 @@
+C:\Users\omerf\source\repos\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.exe
+C:\Users\omerf\source\repos\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.deps.json
+C:\Users\omerf\source\repos\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.runtimeconfig.json
+C:\Users\omerf\source\repos\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.runtimeconfig.dev.json
+C:\Users\omerf\source\repos\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.dll
+C:\Users\omerf\source\repos\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.pdb
+C:\Users\omerf\source\repos\Civan_AI_UI\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\omerf\source\repos\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.csprojAssemblyReference.cache
+C:\Users\omerf\source\repos\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.Form1.resources
+C:\Users\omerf\source\repos\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.csproj.GenerateResource.cache
+C:\Users\omerf\source\repos\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.AssemblyInfoInputs.cache
+C:\Users\omerf\source\repos\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.AssemblyInfo.cs
+C:\Users\omerf\source\repos\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.csproj.CoreCompileInputs.cache
+C:\Users\omerf\source\repos\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.csproj.CopyComplete
+C:\Users\omerf\source\repos\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.dll
+C:\Users\omerf\source\repos\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.pdb
+C:\Users\omerf\source\repos\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.genruntimeconfig.cache
+C:\Users\omerf\source\repos\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.Properties.Resources.resources
+C:\Users\user\Desktop\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.exe
+C:\Users\user\Desktop\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.deps.json
+C:\Users\user\Desktop\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.runtimeconfig.json
+C:\Users\user\Desktop\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.runtimeconfig.dev.json
+C:\Users\user\Desktop\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.dll
+C:\Users\user\Desktop\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.pdb
+C:\Users\user\Desktop\Civan_AI_UI\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\user\Desktop\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.Form1.resources
+C:\Users\user\Desktop\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.Properties.Resources.resources
+C:\Users\user\Desktop\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.AssemblyInfo.cs
+C:\Users\user\Desktop\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.csproj.CopyComplete
+C:\Users\user\Desktop\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.dll
+C:\Users\user\Desktop\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.pdb
+C:\Users\user\Desktop\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.genruntimeconfig.cache
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.exe
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.deps.json
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.runtimeconfig.json
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.runtimeconfig.dev.json
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.dll
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\bin\Debug\netcoreapp3.1\Civan_AI_UI.pdb
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.Form1.resources
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.Properties.Resources.resources
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.AssemblyInfo.cs
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.csproj.CopyComplete
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.dll
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.pdb
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.genruntimeconfig.cache
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\bin\Debug\netcoreapp3.1\Microsoft.Dynamic.dll
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\bin\Debug\netcoreapp3.1\Microsoft.Scripting.Metadata.dll
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\bin\Debug\netcoreapp3.1\Microsoft.Scripting.dll
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\bin\Debug\netcoreapp3.1\IronPython.Modules.dll
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\bin\Debug\netcoreapp3.1\IronPython.SQLite.dll
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\bin\Debug\netcoreapp3.1\IronPython.Wpf.dll
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\bin\Debug\netcoreapp3.1\IronPython.dll
+C:\Users\user\Desktop\bilgisayar stuff\Civan_AI_UI\obj\Debug\netcoreapp3.1\Civan_AI_UI.csprojAssemblyReference.cache
