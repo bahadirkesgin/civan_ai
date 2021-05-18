@@ -1,5 +1,5 @@
 # Artificial Intelligence Dr. Civan
-<img align = "right" alt="GIF" src="https://media.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif" />
+<img align = "right" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 AI powered software for COVID-19 test or heart disease prediction
 
 **COVID-19 TEST**
