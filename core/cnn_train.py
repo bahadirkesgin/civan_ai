@@ -30,10 +30,3 @@ predictor = CNN(hps)
 predictor.build_model(hps)
 predictor.train_model()
 model = tf.keras.models.load_model("CNN_covid_pred.model")
-#instance = predictor.reshape_instance(
-#        data_dir = 'datasets/covid_test/negative/nCT122.jpg')
-#result = model.predict(instance)
-#if result[0][0] == 1:
-#    prediction = 'positive'
-#else:
-#    prediction = 'negative'
